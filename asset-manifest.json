@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/linedrive/static/css/main.f3af76c2.css",
-    "main.js": "/linedrive/static/js/main.a860db8c.js",
-    "static/js/787.d88cccd5.chunk.js": "/linedrive/static/js/787.d88cccd5.chunk.js",
-    "index.html": "/linedrive/index.html",
-    "main.f3af76c2.css.map": "/linedrive/static/css/main.f3af76c2.css.map",
-    "main.a860db8c.js.map": "/linedrive/static/js/main.a860db8c.js.map",
-    "787.d88cccd5.chunk.js.map": "/linedrive/static/js/787.d88cccd5.chunk.js.map"
+    "main.css": "/static/css/main.d9484beb.css",
+    "main.js": "/static/js/main.7ccb85ac.js",
+    "static/js/787.d88cccd5.chunk.js": "/static/js/787.d88cccd5.chunk.js",
+    "index.html": "/index.html",
+    "main.d9484beb.css.map": "/static/css/main.d9484beb.css.map",
+    "main.7ccb85ac.js.map": "/static/js/main.7ccb85ac.js.map",
+    "787.d88cccd5.chunk.js.map": "/static/js/787.d88cccd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3af76c2.css",
-    "static/js/main.a860db8c.js"
+    "static/css/main.d9484beb.css",
+    "static/js/main.7ccb85ac.js"
   ]
 }
