@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linedrive/static/css/main.f3af76c2.css",
+    "main.js": "/linedrive/static/js/main.a860db8c.js",
+    "static/js/787.d88cccd5.chunk.js": "/linedrive/static/js/787.d88cccd5.chunk.js",
+    "index.html": "/linedrive/index.html",
+    "main.f3af76c2.css.map": "/linedrive/static/css/main.f3af76c2.css.map",
+    "main.a860db8c.js.map": "/linedrive/static/js/main.a860db8c.js.map",
+    "787.d88cccd5.chunk.js.map": "/linedrive/static/js/787.d88cccd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3af76c2.css",
+    "static/js/main.a860db8c.js"
+  ]
+}
